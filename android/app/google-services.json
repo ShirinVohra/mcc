@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273778979318",
+    "project_id": "jupygenix-1dd7b",
+    "storage_bucket": "jupygenix-1dd7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273778979318:android:b829d7e73ee16e6e9a97d7",
+        "android_client_info": {
+          "package_name": "com.example.jupygenix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273778979318-8vpbjhvcdep8qsshgi7oh7vk9rlp9j9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMZhseB3cO1RXlEsr4FRPPndcHaqSROSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273778979318-8vpbjhvcdep8qsshgi7oh7vk9rlp9j9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
